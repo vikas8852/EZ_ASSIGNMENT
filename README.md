@@ -14,9 +14,9 @@ This project is a front-end implementation of the **Varnan home page**, featurin
   ```json
   {
     "name": "Test User",
-    "email": "testuser@gmail.com",
-    "phone": "908765498",
-    "message": "This is a message"
+    "email": "testuser123@gmail.com",
+    "phone": "88984524",
+    "message": "This is a messeage"
   }
   ```
 - **Success response (200)** — Returns the created object with timestamps and submitted data.
