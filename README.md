@@ -21,7 +21,7 @@ This project is a front-end implementation of the **Varnan home page**, featurin
   ```
 - **Success response (200)** — Returns the created object with timestamps and submitted data.
 - Expected Response (200)
-{
+```{
   "created_at": "2025-11-8T05:27:59.371578Z",
   "email": "testuser@gmail.com",
   "id": 49,
@@ -29,7 +29,7 @@ This project is a front-end implementation of the **Varnan home page**, featurin
   "name": "Test user",
   "phone": "908765498",
   "updated_at": "2025-10-10T05:27:59.371598Z"
-}
+}````
 
 - UI behavior — Displays **"Form Submitted"** message upon successful API response.
 
