@@ -1,9 +1,9 @@
-# 🪶 Varnan Assignment — React + Tailwind + API Integration
+#  Varnan Assignment — React + Tailwind + API Integration
 
 This repository contains a fully responsive, single-page React application (portfolio/home page) built to match a Figma design and integrated with a backend contact API.  
 The project includes form validation, API integration, horizontal page scrolling, Framer Motion animations, and responsive layouts for all devices.
 
-## 🌐 Project Overview
+## Project Overview
 
 This project is a front-end implementation of the **Varnan home page**, featuring a clean, responsive, and animated design based on the provided Figma reference.
 
