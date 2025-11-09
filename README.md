@@ -31,7 +31,5 @@ This project is a front-end implementation of the **Varnan home page**, featurin
   "updated_at": "2025-10-10T05:27:59.371598Z"
 }````
 
-- UI behavior — Displays **"Form Submitted"** message upon successful API response.
 
----
 
